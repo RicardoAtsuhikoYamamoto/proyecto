@@ -1,8 +1,6 @@
 ---
 title: "Proyecto"
-output: pdf_document
-papersize: a4
-latex_engine: "lualatex"
+output: html_document
 ---
 
-Texto
+Texto 2
