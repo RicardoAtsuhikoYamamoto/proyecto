@@ -19,7 +19,7 @@ output: html_notebook
 # Integrantes
 
 - Génesis Flores Arroyo
-- .
+- Angel Salvador Calleja Castillo
 - Esteban Villacorta Garcia
 - Alberto Oporto Ames
 - Ricardo Atsuhiko Yamamoto Yamamoto
