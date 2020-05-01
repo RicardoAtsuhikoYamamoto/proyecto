@@ -7,12 +7,12 @@ output: html_notebook
 
 - .
 - .
-- .
+- Uso del software libre en el Perú.
 
 # Integrantes
 
 - .
 - .
 - .
-- .
+- Alberto Oporto Ames
 - .
