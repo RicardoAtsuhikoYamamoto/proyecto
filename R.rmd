@@ -3,11 +3,13 @@ title: "Proyecto"
 output: html_notebook
 ---
 
-# Ideas
+# Temas
 
-- .
-- .
+- Relación entre los factores económicos el acceso a una educación de calidad.
+- El deficiente desarrollo de habilidades analíticas, interpretativas,
+  juicio crítico de la información en los estudiantes de educación secundaria de Lima-Perú.
 - Uso del software libre en el Perú.
+- Efectividad de las medidas de aislamiento del gobierno en respuesta al COVID-19 en Perú.
 
 # Integrantes
 
