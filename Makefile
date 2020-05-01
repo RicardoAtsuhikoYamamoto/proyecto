@@ -1,6 +1,6 @@
 TARGET = $(wildcard *.rmd)
 
-default: $(TARGET:%.rmd=%.html)
+default: $(TARGET:%.rmd=%.nb.html)
 
-%.html: %.rmd
+%.nb.html: %.rmd
 	Rscript -e 'library(rmarkdown); render("$<")'
