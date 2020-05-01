@@ -3,4 +3,16 @@ title: "Proyecto"
 output: html_notebook
 ---
 
-Texto 2
+# Ideas
+
+- .
+- .
+- .
+
+# Integrantes
+
+- .
+- .
+- .
+- .
+- .
