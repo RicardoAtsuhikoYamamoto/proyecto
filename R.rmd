@@ -20,6 +20,6 @@ output: html_notebook
 
 - Génesis Flores Arroyo
 - .
-- .
+- Esteban Villacorta Garcia
 - Alberto Oporto Ames
 - Ricardo Atsuhiko Yamamoto Yamamoto
