@@ -11,7 +11,7 @@ output: html_notebook
 - Uso del software libre en el Perú.
 - Efectividad de las medidas de aislamiento del gobierno en respuesta al COVID-19 en Perú.
 
-#Líder
+# Líder
 
 -
 
