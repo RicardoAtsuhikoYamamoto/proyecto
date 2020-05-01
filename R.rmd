@@ -15,4 +15,4 @@ output: html_notebook
 - .
 - .
 - Alberto Oporto Ames
-- .
+- Ricardo Atsuhiko Yamamoto Yamamoto
