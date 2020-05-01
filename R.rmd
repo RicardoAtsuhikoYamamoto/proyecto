@@ -1,7 +1,11 @@
 ---
 title: "Proyecto"
-output: html_notebook
+output:
+   html_notebook:
+      theme: darkly
 ---
+
+[![GitHub forks](https://img.shields.io/github/forks/2020-01-est-19/proyecto.svg?style=social&label=Fork&maxAge=2592000)](https://github.com/2020-01-est-19/proyecto)
 
 # Temas
 
